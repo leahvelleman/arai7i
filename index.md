@@ -67,7 +67,7 @@ Elsewhere, the consonant disappears. This happens
 | **mā!**     | \[maː\]       | *go!*              |
 | **māki**    | \[maː.ki\]    | *route; way to go* |
 | **mā de’o** | \[maː.de.ʔo\] | *go home*          |
-|             |               |                    |
+
 The disappearing consonant also leaves a trace behind:
 * A disappearing fricative becomes an **h**
 * A disappearing voiceless stop becomes a glottal stop
@@ -132,6 +132,7 @@ The Tequi alphabet has 70 letters.
 | `RA`  | `RI`  | `RO`  | `+AR`  | `+IR`  | `+OR`  |
 | `A`   | `I`   | `O`   | `+A`   | `+I`   | `+O`   |
 | `V`   | `L`   | `LL`  | `W`    |        |        |
+
 The four special letters are used to write reduplication:
 - The letter transcribed `V` repeats the most recent vowel sound.
 - The letter transcribed `L` repeats the most recent letter.
@@ -159,6 +160,7 @@ The closing letters all can go through [[vowel fusion]] with the previous letter
 | **ogyori** | \[ogjoȥi] | `O-GI+O-RI` |     |
 | **sah**    | \[sa̤:\]  | `SA+AH`     |     |
 | **‘ati**   | \[ʔati\]  | `ʔA-TO+I`   |     |
+
 In particular, this means that you can use a closing letter after an opening letter with the same vowel, and the two vowels combine into one, as in **sah** `SA+AH`. 
 
 The opening letters don't go through fusion.
@@ -169,6 +171,7 @@ The opening letters don't go through fusion.
 | **okio**  | \[okio]   | `O-KI-O`  |     |
 | **saah**  | \[saa̤:\] | `SA-AH`   |     |
 | **atoi**  | \[atoi\]  | `A-TO-I`  |     |
+
 Closing letters can also go through [[consonant changes]]. 
 
 |           |            |            |     |
