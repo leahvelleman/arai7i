@@ -1,3 +1,8 @@
+layout: page
+title: "Arai’i"
+permalink: /index
+---
+
 # Sounds
 ## Sounds and romanization
 Here are the consonant sounds of Arai’i, and the way they're written in the roman alphabet.
