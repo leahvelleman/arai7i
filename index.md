@@ -1,7 +1,6 @@
 
-# Sounds
-## Sounds and romanization
-### Consonants
+# Sounds and spelling
+## Consonants
 Here are the consonant sounds of Arai’i, and the way they're written in the roman alphabet.
 
 |                    | Bilabial   | Alveolar  | Postalveolar | Retroflex | Velar     | Glottal   |
@@ -22,7 +21,8 @@ Most are pronounced like English speakers would expect, but there are a few unus
 > 
 
 Consonants can be single or double. Double consonants are pronounced longer than single ones, and  written double in romanization: **pp**, **tt**, and so on. The two-letter consonants **wh sh ch** are written **wwh ssh tch** when they're double.
-### Vowels
+
+## Vowels
 Tequi has four vowel qualities: /a e i o/, romanized **a e i o**, and three diphthongs, /ia ie io/, romanized **ya ye yo**. 
 
 Vowels can be pronounced with different lengths — and, rarely, with tone. Vowels before a glottal stop or a double consonant are pronounced extra-short.
@@ -35,7 +35,8 @@ Vowels can be pronounced with different lengths — and, rarely, with tone. Vowe
 | Extra-short                | \[ă]          | **a’**   |
 
 Because tone is so rare, Tequi sounds, not like a tonal language, but like one with a varied rhythm. 
-### Syllables
+
+## Syllables
 A syllable contains a single vowel or diphthong. It can start with that vowel, or with a consonant.
 
 A syllable can end with a glottal stop or with **h**. 
