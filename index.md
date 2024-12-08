@@ -1,7 +1,3 @@
-layout: page
-title: "Arai’i"
-permalink: /index
----
 
 # Sounds
 ## Sounds and romanization
